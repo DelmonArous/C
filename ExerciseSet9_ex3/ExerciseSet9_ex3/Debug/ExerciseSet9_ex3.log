@@ -1,0 +1,11 @@
+﻿Build started 27.03.2014 17:48:48.
+     1>Project "C:\Users\Delmon\Dropbox\C\INF3380\ExerciseSet9_ex3\ExerciseSet9_ex3\ExerciseSet9_ex3.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /openmp /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt Source.c
+         Source.c
+     1>c:\users\delmon\dropbox\c\inf3380\exerciseset9_ex3\exerciseset9_ex3\source.c(8): error C3014: expected a for loop following OpenMP 'parallel for' directive
+     1>Done Building Project "C:\Users\Delmon\Dropbox\C\INF3380\ExerciseSet9_ex3\ExerciseSet9_ex3\ExerciseSet9_ex3.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.88
